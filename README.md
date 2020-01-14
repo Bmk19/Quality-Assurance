@@ -1,5 +1,5 @@
 # Quality-Assurance
-##Common Questions and Answers pertaining to Software Quality Assurance
+## Common Questions and Answers pertaining to Software Quality Assurance
 
 These questions are designed to show an understanding of the relationship between the design quality and the design metrics.
 Additionally, it helps a reader understand the advantages of using standards to measure quality of software, the drawbacks of
